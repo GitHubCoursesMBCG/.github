@@ -1,5 +1,5 @@
 ## Hi there 👋
-🙋‍♀️ I've put my first GitHub repos to this ogamization to make my account tidier.
+🙋‍♀️ I've put my first GitHub repos to this organization to make my account tidier.
 These repoes were created when taking educational courses at GitHub
 
 
